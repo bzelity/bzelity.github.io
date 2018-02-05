@@ -1,0 +1,103 @@
+html {
+   min-height: 100%;   
+}
+
+body {
+   background: no-repeat center/100% url("pics/background.jpg");
+   background-attachment: fixed;
+   background-color: rgba(19, 20, 32);
+}
+
+a {
+  font-family: Gadugi, Helvetica, sans-serif;
+  color: #FFFFFF;
+  font-size: 11pt;
+  text-decoration: none;
+}
+
+a.active {
+  color: #867fbf;
+}
+
+a.text {
+  font-size: 10pt;
+}
+
+a:hover {
+  color: #867fbf;
+}
+
+table.menu {
+  font-family: Gadugi, Helvetica, sans-serif;
+  font-size: 11pt;
+  color: #FFFFFF;
+}
+
+table.header {
+  background: rgba(47, 48, 78, 0.75);
+}
+
+table.content {
+  background: rgba(19, 20, 32, 0.75);
+}
+
+div.content {
+  color: #cecbe7;
+  font-family: Gadugi, Helvetica, sans-serif;
+  font-size: 10pt;
+}
+
+div.date {
+  color: #cecbe7;
+  font-family: Gadugi, Helvetica, sans-serif;
+  font-size: 10pt;
+  font-style: italic;
+}
+
+h1 {
+  color: #cecbe7;
+  font-family: Gadugi, Helvetica, sans-serif;
+  font-size: 14pt;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  color: #cecbe7;
+  font-family: Gadugi, Helvetica, sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-family: Gadugi, Helvetica, sans-serif;
+  color: #FFFFFF;
+  font-size: 10pt;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.hidden {
+  display: none;
+  color: #cecbe7;
+  font-family: Gadugi, Helvetica, sans-serif;
+  font-size: 10pt;
+}
+
+.unhidden {
+  display: block;
+  color: #cecbe7;
+  font-family: Gadugi, Helvetica, sans-serif;
+  font-size: 10pt;
+} 
+
+.form {
+  width: 290px;
+  background-color: rgba(19, 20, 32);
+  border: 1px solid #ffffff;
+  color: #ffffff;
+}

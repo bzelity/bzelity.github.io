@@ -1,0 +1,8 @@
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: *
+Disallow: /pics/
+
+Sitemap: http://bzelity.github.io/sitemaps/sitemap-pages.xml
+Sitemap: http://bzelity.github.io/sitemaps/sitemap-blog.xml
