@@ -48,6 +48,10 @@ td.hpad {
   width: 50px;
 }
 
+tr.content_vpad {
+  height: 10px;
+}
+
 table.content {
   background: rgba(19, 20, 32, 0.75);
 }
