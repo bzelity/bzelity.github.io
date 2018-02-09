@@ -113,8 +113,14 @@ h3 {
 } 
 
 .form_in {
-  width: 290px;
+  width: 96.7%;
   background-color: rgb(19, 20, 32);
   border: 1px solid #ffffff;
   color: #ffffff;
+}
+
+table.form_table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
 }
