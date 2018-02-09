@@ -29,12 +29,12 @@ table.menu {
   font-family: Gadugi, Helvetica, sans-serif;
   font-size: medium;
   color: #FFFFFF;
-  width: 535px;
+  width: 100%;
 }
 
 table.header {
   background: rgba(47, 48, 78, 0.75);
-  width: 640px;
+  width: 100%;
 }
 
 tr.header_vpad {
@@ -47,7 +47,7 @@ td.hpad {
 
 table.content {
   background: rgba(19, 20, 32, 0.75);
-  width: 640px;
+  width: 100%;
 }
 
 td.content_hpad {
