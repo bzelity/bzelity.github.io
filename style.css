@@ -58,6 +58,14 @@ table.content {
   width: 700px;
 }
 
+tr.front_mobi {
+  display: none;
+}
+
+tr.front_full {
+  display: inline;
+}
+
 div.content {
   color: #cecbe7;
   font-family: Gadugi, Helvetica, sans-serif;

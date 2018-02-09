@@ -51,6 +51,14 @@ table.content {
   width: 100%;
 }
 
+tr.front_mobi {
+  display: inline;
+}
+
+tr.front_full {
+  display: none;
+}
+
 td.content_hpad {
   width: 20px;
 }
