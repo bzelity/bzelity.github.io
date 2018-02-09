@@ -18,7 +18,7 @@ a.active {
 }
 
 a.text {
-  font-size: smaller;
+  font-size: inherit;
 }
 
 a:hover {
@@ -47,6 +47,11 @@ td.hpad {
 
 table.content {
   background: rgba(19, 20, 32, 0.75);
+  width: 640px;
+}
+
+td.content_hpad {
+  width: 20px;
 }
 
 div.content {
@@ -103,7 +108,7 @@ h3 {
   font-size: smaller;
 } 
 
-.form {
+.form_in {
   width: 290px;
   background-color: rgba(19, 20, 32);
   border: 1px solid #ffffff;

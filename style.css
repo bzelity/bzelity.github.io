@@ -21,7 +21,7 @@ a.active {
 }
 
 a.text {
-  font-size: 10pt;
+  font-size: inherit;
 }
 
 a:hover {
@@ -54,6 +54,7 @@ tr.content_vpad {
 
 table.content {
   background: rgba(19, 20, 32, 0.75);
+  width: 700px;
 }
 
 div.content {
@@ -110,7 +111,7 @@ h3 {
   font-size: smaller;
 } 
 
-.form {
+.form_in {
   width: 290px;
   background-color: rgba(19, 20, 32);
   border: 1px solid #ffffff;
