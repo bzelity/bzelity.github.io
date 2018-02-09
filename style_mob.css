@@ -1,16 +1,16 @@
 html {
-   font-size: medium;
+   font-size: 100%;
 }
 
 body {
    background-color: rgb(19, 20, 32);
-   font-size: medium;
+   font-size: 100%;
 }
 
 a {
   font-family: Gadugi, Helvetica, sans-serif;
   color: #FFFFFF;
-  font-size: medium;
+  font-size: 100%;
   text-decoration: none;
 }
 
@@ -28,7 +28,7 @@ a:hover {
 
 table.menu {
   font-family: Gadugi, Helvetica, sans-serif;
-  font-size: medium;
+  font-size: 100%;
   color: #FFFFFF;
   width: 100%;
 }
@@ -58,20 +58,20 @@ td.content_hpad {
 div.content {
   color: #cecbe7;
   font-family: Gadugi, Helvetica, sans-serif;
-  font-size: smaller;
+  font-size: 83.3%;
 }
 
 div.date {
   color: #cecbe7;
   font-family: Gadugi, Helvetica, sans-serif;
-  font-size: smaller;
+  font-size: 83.3%;
   font-style: italic;
 }
 
 h1 {
   color: #cecbe7;
   font-family: Gadugi, Helvetica, sans-serif;
-  font-size: larger;
+  font-size: 120%;
   font-weight: bold;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -80,7 +80,7 @@ h1 {
 h2 {
   color: #cecbe7;
   font-family: Gadugi, Helvetica, sans-serif;
-  font-size: medium;
+  font-size: 100%;
   font-weight: bold;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -89,7 +89,7 @@ h2 {
 h3 {
   font-family: Gadugi, Helvetica, sans-serif;
   color: #FFFFFF;
-  font-size: smaller;
+  font-size: 83.3%;
   font-weight: bold;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -99,14 +99,14 @@ h3 {
   display: none;
   color: #cecbe7;
   font-family: Gadugi, Helvetica, sans-serif;
-  font-size: smaller;
+  font-size: 83.3%;
 }
 
 .unhidden {
   display: block;
   color: #cecbe7;
   font-family: Gadugi, Helvetica, sans-serif;
-  font-size: smaller;
+  font-size: 83.3%;
 } 
 
 .form_in {
