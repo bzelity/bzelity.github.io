@@ -59,6 +59,14 @@ tr.front_full {
   display: none;
 }
 
+div.front_full {
+  display: none;
+}
+
+div.front_mobi {
+  display: inline;
+}
+
 td.content_hpad {
   width: 20px;
 }

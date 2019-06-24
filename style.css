@@ -66,6 +66,14 @@ tr.front_full {
   display: inline;
 }
 
+div.front_full {
+  display: inline;
+}
+
+div.front_mobi {
+  display: none;
+}
+
 div.content {
   color: #cecbe7;
   font-family: Gadugi, Helvetica, sans-serif;
@@ -94,7 +102,7 @@ h2 {
   font-size: medium;
   font-weight: bold;
   margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 4px;
 }
 
 h3 {
